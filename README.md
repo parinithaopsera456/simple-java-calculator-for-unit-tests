@@ -5,6 +5,10 @@
 ![Logo Simple Java Calculator](logo.png)
 
 ---
+This file was downloaded locally by Bradley Miller using git in Netbeans on 9/29/2024 as part of an 
+assignment for CIS175 Java II for fall semester. Additionally the test file was commented out to ensure the 
+program ran without adding the necessary dependenceies for testing, as testing is not the goal of this current
+assignment. 
 
 This calculator is **simple** with an **easy to use code** to help novices **learn how to create a calculator** program with **`Java`**.
 
